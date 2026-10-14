@@ -1,0 +1,6 @@
+Lion,Simba,5
+Elephant,Dumbo,10
+Bird,Tweety,2
+Dolphin,Splash,8
+Lion,,4
+Bird,Eagle,3
